@@ -1,0 +1,44 @@
+_repo: Greenmantle_559
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buchan, John
+    alias: Tweedsmuir, John Buchan, Baron
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '285'
+    url: http://www.gutenberg.org/2009/agents/285
+    wikipedia: http://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir
+description: "Greenmantle is the second of five novels by John Buchan featuring the\
+  \ character of Richard Hannay, first published in 1916 by Hodder & Stoughton, London.\
+  \ It is one of two Hannay novels set during the First World War, the other being\
+  \ Mr Standfast (1919); Hannay's first and best-known adventure, The Thirty-Nine\
+  \ Steps (1915), is set in the period immediately preceding the war.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf:
+- Adventure
+- World War I
+- Movie Books
+- Mystery Fiction
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '559'
+  wikidata: Q5604315
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spy stories'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'Hannay, Richard (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Intelligence service -- Great Britain -- Fiction'
+- !lcsh 'War stories'
+- GITenberg
+title: Greenmantle
+url: http://www.gutenberg.org/ebooks/559
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B1%D8%AF%D8%A7%D8%A1_%D8%A7%D9%84%D8%A3%D8%AE%D8%B6%D8%B1
+- https://en.wikipedia.org/wiki/Greenmantle
